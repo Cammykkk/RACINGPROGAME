@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Meta
   - Boost
+  - Muro
+  - Cono
   layers:
   - Default
   - TransparentFX
